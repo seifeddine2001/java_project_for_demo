@@ -1,3 +1,5 @@
+
+
 hello tot
 = Gradle Initializer image:https://travis-ci.org/bmuschko/gradle-initializr.svg?branch=master["Build Status", link="https://travis-ci.org/bmuschko/gradle-initializr"]
 
@@ -79,3 +81,4 @@ The following test frameworks can be selected for the project types `java-applic
 |`testng`        |link:http://testng.org/[TestNG]
 |`spock`         |link:http://spockframework.org/[Spock framework]
 |=======
+"Test Jenkins Build Trigger"
